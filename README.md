@@ -1,12 +1,31 @@
--👋 Hi, I’m Ibrahim (@midevora)
--👀 I’m interested in developing efficient digital solutions, automating workflows, and exploring emerging tech.
--🌱 I’m currently learning advanced JavaScript frameworks, AI integration, and cloud infrastructure.
--💞️ I’m looking to collaborate on exciting open-source projects or innovative tech solutions that can make an impact.
--📫 How to reach me: Feel free to connect via LinkedIn (https://www.linkedin.com/in/mibrahimmm/) or drop an email at mi@devoraone.com.
--😄 Pronouns: He/Him
--⚡ Fun fact: I once automated an entire reporting system with just a few lines of code—freeing up hours of manual work!
+# 👋 Hi, I'm Ibrahim Founder @ DevoraOne
 
-<!---
-midevora/midevora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At **DevoraOne**, we power businesses through modern software engineering, AI-driven automation, and full-cycle product development. From early-stage startups to global enterprises, we partner with forward-thinking brands to deliver impact at scale.
+
+### 💼 Industries We Serve
+We work across a range of industries with deep domain knowledge:
+- 💳 FinTech, Banking & Financial Services
+- 🧬 HealthTech, EdTech, LegalTech
+- 🏢 PropTech, Manufacturing, Retail & E-commerce
+- 🚚 Freight & Logistics Tech
+- 🌐 Cybersecurity, Blockchain & NFT Marketplaces
+- ✈️ Travel & Hospitality, Social Networking
+- 🗣️ Communication & Collaboration Platforms
+- 🏛️ Government, Embassies & Defence Tech
+
+### 🔧 What We Do
+We specialize in:
+- Full-Stack Web & App Development (React, Next.js, Node.js, Python)
+- AI-Powered SaaS & Automation
+- Scalable APIs & Custom Software Solutions
+- Blockchain, Smart Contracts & NFT Platforms
+- DevOps, Cloud Architecture & Cybersecurity Integrations
+
+### 🧠 Trusted By Brands Like:
+`Kickbot`, `Ucardia`, `RTA (UAE Govt)`, `Rival Finance`, `GetAround`, `Bolt`, `Paythen`, `Blur.io`, `Sibme` and others.
+
+---
+
+### 🚀 Want to Build with Us?
+📫 Email: **hello@devoraone.com**  
+🌐 Website: [devoraone.com](https://www.devoraone.com)
